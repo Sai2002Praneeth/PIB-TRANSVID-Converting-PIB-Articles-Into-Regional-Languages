@@ -1,0 +1,53 @@
+ERROR:root:Error: No images found in Scrapped_Images folder.
+ERROR:root:Error: module 'PIL.Image' has no attribute 'ANTIALIAS'
+ERROR:root:Error: module 'PIL.Image' has no attribute 'ANTIALIAS'
+ERROR:root:Error: module 'PIL.Image' has no attribute 'ANTIALIAS'
+ERROR:root:Error: module 'PIL.Image' has no attribute 'Resampling'
+INFO:root:Video editing completed successfully.
+ERROR:root:Error: Number of captions does not match the number of images.
+ERROR:root:Error: MoviePy Error: creation of None failed because of the following error:
+
+[WinError 2] The system cannot find the file specified.
+
+.This error can be due to the fact that ImageMagick is not installed on your computer, or (for Windows users) that you didn't specify the path to the ImageMagick binary in file conf.py, or that the path you specified is incorrect
+INFO:root:Video editing completed successfully.
+ERROR:root:Error: Number of captions does not match the number of images.
+ERROR:root:Error: Number of captions does not match the number of images.
+INFO:root:Video editing completed successfully.
+ERROR:root:Error: No images found in the specified image folder.
+ERROR:root:Error: No images found in the specified image folder.
+ERROR:root:Error: No images found in the specified image folder.
+ERROR:root:Error: No images found in the specified image folder.
+ERROR:root:Error: No images found in the specified image folder.
+ERROR:root:Error: No images found in the specified image folder.
+ERROR:root:Error: No images found in the specified image folder.
+ERROR:root:Error: No images found in the specified image folder.
+ERROR:root:Error: No images found in the specified image folder.
+ERROR:root:Error: No images found in the specified image folder.
+ERROR:root:Error: No images found in the specified image folder.
+INFO:root:Video editing completed successfully.
+INFO:root:Video editing completed successfully.
+INFO:root:Video editing completed successfully.
+INFO:root:Video editing completed successfully.
+ERROR:root:Error: No images found in both Scrapped_Images and static folders.
+INFO:root:Video editing completed successfully.
+INFO:root:Video editing completed successfully.
+INFO:root:Video editing completed successfully.
+INFO:root:Video editing completed successfully.
+INFO:root:Video editing completed successfully.
+INFO:root:Video editing completed successfully.
+INFO:root:Video editing completed successfully.
+INFO:root:Video editing completed successfully.
+WARNING:py.warnings:C:\Users\P_ran\anaconda3\envs\tts\lib\site-packages\PIL\Image.py:975: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+
+ERROR:root:Error: could not broadcast input array from shape (1080,1920,2) into shape (1080,1920,3)
+INFO:root:Video editing completed successfully.
+INFO:root:Video editing completed successfully.
+INFO:root:Video editing completed successfully.
+INFO:root:Video editing completed successfully.
+INFO:root:Video editing completed successfully.
+INFO:root:Video editing completed successfully.
+INFO:root:Video editing completed successfully.
+INFO:root:Video editing completed successfully.
+INFO:root:Video editing completed successfully.
